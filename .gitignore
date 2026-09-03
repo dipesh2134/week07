@@ -197,3 +197,4 @@ cython_debug/
 .cursorindexingignore
 
 node_modules/
+azure_credentials.json
