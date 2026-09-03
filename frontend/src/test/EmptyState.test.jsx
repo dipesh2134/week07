@@ -31,3 +31,4 @@ describe("EmptyState", () => {
     ).toBeInTheDocument();
   });
 });
+it('deliberate failure to demonstrate CI gate', () => { expect(1).toBe(2); });
