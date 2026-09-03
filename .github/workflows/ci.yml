@@ -170,3 +170,5 @@ jobs:
         run: |
           docker push \
             ${{ vars.ACR_LOGIN_SERVER }}/${{ matrix.image }}:latest
+
+# CI trigger test - SIT722 7.1P
